@@ -1,0 +1,39 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    
+
+}
+body{
+    background:url("image1/tvmcover.jpg");
+    height:100vh;
+    background-size: cover;
+    background-position: center center;
+    position:relative;
+}
+.logo img{
+    width: 100px;
+    float:left;
+    filter:invert(1);
+  
+
+    
+    
+    
+}
+.logo1 img{
+    width: 178px;
+    float: left;
+    filter:invert(1);
+  
+    
+    
+
+}
+.card{
+    float:right;
+    margin-top: 20%;
+}
